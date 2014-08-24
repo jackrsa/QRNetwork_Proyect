@@ -1,6 +1,7 @@
 ID: 1
 ======================================================================================
 Nombre: Interfaz de App
+Descripcion: Quiero una interfaz de usuario sencilla, facil de usar pero elegante a la vez.
 Importancia: 10
 Estimacion: 2 semanas
 Como probarlo: 
@@ -8,18 +9,69 @@ Notas:
 Solicitante: usuario
 
 
-
 ID: 2
 ======================================================================================
 Nombre: Login de usuarios
-Importancia: 10
+Descripcion: Quiero que la aplicacion realice un control de acceso.
+Importancia: 8
+Estimacion: 3 semanas
+Como probarlo: 
+Notas:
+Solicitante:
+
+
+ID: 3
+======================================================================================
+Nombre: Recuperar passwords
+Descripcion: Olvide mi contraseña y quiero recuperarla.
+Importancia: 7
 Estimacion: 2 semanas
 Como probarlo: 
 Notas:
 Solicitante:
 
 
+ID: 4
+======================================================================================
+Nombre: Leer codigos QR
+Descripcion: Quiero que la aplicacion permita leer codigos QR.
+Importancia: 10
+Estimacion: 3 semanas
+Como probarlo: 
+Notas:
+Solicitante:
 
 
+ID: 5
+======================================================================================
+Nombre: Sitio web de administracion
+Descripcion: Quiero una pagina web que me permita facilmente administrar los parametros globales, la administracion de usuarios y la carga de la base de datos con componentes a ser reconocidos por la app.
+Importancia: 8
+Estimacion: 4 semanas
+Como probarlo: 
+Notas:
+Solicitante:
+
+
+ID: 6
+======================================================================================
+Nombre: Gestion de usuarios
+Descripcion: Quiero gestionar los usuarios de la aplicacion y sus perfiles (Nivel de conocimiento, estilos de aprendizaje).
+Importancia: 7
+Estimacion: 4 semanas
+Como probarlo: 
+Notas:
+Solicitante:
+
+
+ID: 7
+======================================================================================
+Nombre: Gestion de objetos a ser reconocidos
+Descripcion: Quiero poder gestionar todos los componentes que la aplicacion puede reconocer a traves de la lectura de codigos QR.
+Importancia: 8
+Estimacion: 3 o 4 semanas
+Como probarlo: 
+Notas:
+Solicitante:
 
 
