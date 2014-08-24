@@ -1,0 +1,44 @@
+Requisitos Funcionales
+========================================================
+
+1) La App debe realizar un control de acceso para permitir al usuario o administrador loguearse en el sistema.
+
+2) La App deberá permitir al usuario recuperar su contraseña.
+
+3) La App debe ser capaz de leer y reconocer códigos QR etiquetados en componentes de red.
+
+4) La App deberá enviar al servidor la información leída del código QR y el ID de usuario logueado.
+
+5) La App debe reconocer el tipo de dispositivo en el que se encuentra instalado e informar al servidor.
+
+6) El servidor debe recuperar de su BD la información del componente en base al código QR recibido.
+
+7) El servidor debe consultar la BD del modelo de usuario en base al ID de usuario.
+
+8) El servidor debe recuperar de la BD de componentes la descripción del mismo de acuerdo al estilo de aprendizaje, nivel de conocimiento del estudiante y al tipo de dispositivo.
+
+9) El servidor debe enviar información a la App y asegurarse que ésta sea fidedigna. 
+
+10) La App deberá desplegar la información en pantalla según el tipo de dispositivo utilizado.
+
+11) El servidor debe mantener una base de datos de componentes de red con distintas presentaciones para cada estilo de aprendizaje y permitir su actualización.
+
+12) El servidor debe importar la BD del modelo de usuario para su consulta.
+
+13) El servidor debe importar la BD de dispositivos para su consulta (Es necesario?).
+
+14) El servidor debe realizar un control de acceso.
+
+15) La App deberá ser capaz de establecer una conexión con el servidor.
+
+16) La App debe presentar un modo admin cuando se loguea un administrador (Necesario?).
+
+17) Agregar requisitos de seguridad.
+
+
+
+Requisitos No Funcionales
+===========================================================
+1) La App deberá adaptarse al display de Smartphone y tablets.
+2) La App deberá ejecutarse en dispositivos con S.O. android
+
