@@ -1,39 +1,29 @@
 Requisitos Funcionales
 ========================================================
 
-1) La App debe realizar un control de acceso.
+1) La App debe tener una interfaz agradable y sencilla.
 
-2) La App deberá permitir al usuario recuperar su contraseña.
+2) La App debe realizar un control de acceso.
 
-3) La App debe ser capaz de leer y reconocer códigos QR etiquetados en componentes de red.
+3) La App deberá permitir al usuario recuperar su contraseña.
 
-4) La App deberá enviar al servidor la información leída del código QR y el ID de usuario logueado.
+4) La App debe ser capaz de leer y reconocer códigos QR.
 
-5) (NOO!) La App debe reconocer el tipo de dispositivo en el que se encuentra instalado e informar al servidor.
+5) La App deberá enviar al servidor la información del código QR leído y del ID de usuario logueado.
 
-6) El servidor debe recuperar de su BD la información del componente en base al código QR recibido.
+6) La App debe presentar información personalizada del componente reconocido en base a estilo de aprendizaje y nivel de conocimiento del usuario.
 
-7) El servidor debe consultar la BD del modelo de usuario en base al ID de usuario.
+7) (Necesario?) La App debe presentar un modo admin cuando se loguea un administrador.
 
-8) El servidor debe recuperar de la BD de componentes la descripción del mismo de acuerdo al estilo de aprendizaje, nivel de conocimiento del estudiante y al tipo de dispositivo.
+8) El servidor debe permitir el mantenimiento de la base de datos.
 
-9) (NOO!) El servidor debe enviar información a la App y asegurarse que ésta sea fidedigna. 
+9) El servidor debe recuperar de la BD el estilo de aprendizaje y el nivel de conocimiento en base al ID de usuario.
 
-10) (NOO!) La App deberá desplegar la información en pantalla según el tipo de dispositivo utilizado.
+10) El servidor debe recuperar de la BD de componentes la descripción del mismo de acuerdo al codigo QR recibido, al estilo de aprendizaje, nivel de conocimiento del estudiante.
 
-11) El servidor debe mantener una base de datos de componentes de red con distintas presentaciones para cada estilo de aprendizaje y permitir su actualización.
+11) El servidor debe realizar un control de acceso.
 
-12) (NOO!) El servidor debe importar la BD del modelo de usuario para su consulta.
-
-13) (NOO!) El servidor debe importar la BD de dispositivos para su consulta (Es necesario?).
-
-14) El servidor debe realizar un control de acceso.
-
-15) (OBVIO!) La App deberá ser capaz de establecer una conexión con el servidor.
-
-16) (Necesario?) La App debe presentar un modo admin cuando se loguea un administrador.
-
-17) (??) Agregar requisitos de seguridad.
+12) El servidor debe permitir recuperar contraseñas.
 
 
 
